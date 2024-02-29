@@ -1,5 +1,6 @@
 # ORB-SLAM2 opencv4版本
 Ubantu20 , eigen3 ,编译已通过。ros-noetic 存在BOOST问题，解决中。
+已解决，可顺利运行。
 
 # 1. License
 
